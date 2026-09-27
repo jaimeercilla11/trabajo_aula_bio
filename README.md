@@ -4,7 +4,7 @@
 **Titulaciones:** Grado en Ciencia e Ingeniería de Datos 
 ---
 
-📄 **[Descargar la Memoria Académica en PDF](./MEMORIA_PRAC_1.pdf)**
+📄 **[Ver Presentación en Canva](https://canva.link/jjd50mf2i7t5uw5)**
 
 ## Descripción del Proyecto
 
