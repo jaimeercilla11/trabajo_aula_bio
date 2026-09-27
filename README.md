@@ -4,6 +4,8 @@
 **Titulaciones:** Grado en Ciencia e Ingeniería de Datos 
 ---
 
+📄 **[Descargar la Memoria Académica en PDF](./informe.pdf)**
+
 ## Descripción del Proyecto
 
 Este repositorio contiene la resolución práctica y los scripts desarrollados para simular y analizar los procesos clave del **Dogma Central de la Biología Molecular**: Replicación, Transcripción, Traducción, Splicing Alternativo y relación Estructura-Función de las proteínas.
