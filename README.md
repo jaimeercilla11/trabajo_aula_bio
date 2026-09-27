@@ -4,7 +4,7 @@
 **Titulaciones:** Grado en Ciencia e Ingeniería de Datos 
 ---
 
-## 📌 Descripción del Proyecto
+## Descripción del Proyecto
 
 Este repositorio contiene la resolución práctica y los scripts desarrollados para simular y analizar los procesos clave del **Dogma Central de la Biología Molecular**: Replicación, Transcripción, Traducción, Splicing Alternativo y relación Estructura-Función de las proteínas.
 
@@ -12,7 +12,7 @@ El proyecto está implementado en un entorno **Jupyter Notebook (`.ipynb`)** apo
 
 ---
 
-## 🧬 Contenido de los Ejercicios
+## Contenido de los Ejercicios
 
 ### Ejercicio 1: Replicación del ADN
 * **Mecanismo:** Simulación semiconservativa partiendo de la doble hebra $5'\text{--ATG CCG TTA GCT--}3'$.
@@ -49,7 +49,7 @@ El proyecto está implementado en un entorno **Jupyter Notebook (`.ipynb`)** apo
 
 ---
 
-## 🛠️ Requisitos e Instalación
+## Requisitos e Instalación
 
 Para ejecutar el cuaderno de Jupyter, es necesario disponer de Python 3.10+ y las siguientes librerías:
 
